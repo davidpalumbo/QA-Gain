@@ -1,0 +1,1 @@
+ruby demo-test-ci.rb https://www.cityindex.co.uk/demo-mt4-account/?redir=0 live mt4
